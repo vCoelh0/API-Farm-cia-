@@ -1,4 +1,4 @@
-# API-Farm-cia-
+# API-Farmacia
 API de uma farmácia hospitalar, feita utilizando Java SpringBoot. Esta API permite cadastrar, atualizar, listar e remover remedios do banco de dados.
 
   O armazenamento dos dados manipulados na API foi feito utilizando um banco de dados mysql, nele estão contidos os dados de remedios e usuarios.
